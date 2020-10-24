@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 This is Pavel Zhelnov. I founded [Zheln.com](https://zheln.com), an affilitation-free crowdfunded nonprofit [Open Evidence Synthesis](https://opensynthesis.github.io) project, where I check [PubMed](https://pubmed.gov) for daily updates in the [Replicated Systematic Review Subset](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/README.md#replicated-version), tag them with [AMA specialties](https://github.com/p1m-ortho/qs-global-ortho-search-queries/blob/global-sr-query/zheln/zheln_ama_specialty_tags.csv), and critically assess the most appealing reviews. I named the project after the _zhelna_, the [black woodpecker](https://en.wikipedia.org/wiki/Black_woodpecker), who do the same thing I do: _Hit to the core._ This is independent research and my primary job, so please consider making a minimal donation as low as $1 either on [GitHub Sponsors](https://github.com/sponsors/drzhelnov), [Open Collective](https://opencollective.com/zheln), [Patreon](https://patreon.com/zheln), or via [PayPal](https://paypal.me/pjelnov).
 
